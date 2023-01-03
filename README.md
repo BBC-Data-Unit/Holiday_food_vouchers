@@ -2,6 +2,8 @@
 
 In December 2022 we looked at the patchwork provision of holiday food vouchers being offered to families with children in receipt of Free School Meals (FSM) in England.
 
+<img width="385" alt="Rashford" src="https://user-images.githubusercontent.com/61186777/210399006-b11d4cf4-e67b-4a22-b096-83b476aaa025.png">
+
 The Shared Data Unit found the number of councils no longer offering the vouchers had continued to grow since August - with 21 having scrapped the scheme.
 
 The Food Foundation, a charity that campaigns on food policy, said it was "vitally important" all eligible children received holiday support and said provision around England had become a "postcode lottery".
