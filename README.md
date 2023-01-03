@@ -1,6 +1,6 @@
 # Holiday_food_vouchers
 
-In December 2022 we looked at the patchwork provision of holiday food vouchers being offered to families with children in receipt of Free School Meals (FSM) in England.
+In December 2022 we looked at [the patchwork provision of holiday food vouchers being offered to families with children in receipt of Free School Meals (FSM) in England.](https://www.bbc.co.uk/news/uk-england-64038416)
 
 <img width="385" alt="Rashford" src="https://user-images.githubusercontent.com/61186777/210399006-b11d4cf4-e67b-4a22-b096-83b476aaa025.png">
 
