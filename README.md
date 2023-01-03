@@ -43,10 +43,10 @@ There are five tabs on the spreadsheet
 
 # Partner usage
 
-The story featured on BBC online as well as bulletins on Radio 4's Today programme, BBC News, and 5 Live. The story was used by several partner publications including:
+The story featured on BBC online as well as bulletins on Radio 4's Today programme, BBC News and 5 Live. The story was used by several partner publications including:
 
 - Berkshire Live: [Holiday food vouchers for children have become a 'postcode lottery' says charity](https://www.getreading.co.uk/news/cost-of-living/holiday-food-vouchers-children-become-25804090) 23 December 2022.
-- Kent Live: [Charity claims Christmas holiday support is 'postcode lottery' as Kent set to offer £20 in vouchers](https://www.kentlive.news/news/uk-world-news/charity-claims-christmas-holiday-support-7955124)  23 December 2022
+- Kent Live: [Charity claims Christmas holiday support is 'postcode lottery' as Kent set to offer £20 in vouchers](https://www.kentlive.news/news/uk-world-news/charity-claims-christmas-holiday-support-7955124)  23 December 2022.
 - Liverpool World: [Holiday food support for kids has become a “postcode lottery” - two Merseyside councils have scrapped food vouchers this Christmas](https://www.liverpoolworld.uk/news/provision-of-holiday-food-support-for-children-has-become-a-postcode-lottery-according-to-a-leading-charity-3963223)  23 December 2022.
 - Wales Online: [Holiday food vouchers for children have become a 'postcode lottery' says charity](https://www.walesonline.co.uk/news/uk-news/holiday-food-vouchers-children-become-25804090)  23 December 2022.
 - Northants Live: [Northamptonshire children on free school meals to receive help over Christmas](https://www.northantslive.news/news/northamptonshire-news/northamptonshire-children-free-school-meals-7955849)  23 December 2022.
