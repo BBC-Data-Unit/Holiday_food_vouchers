@@ -22,15 +22,15 @@ We managed to gather details from 125 authorities, in part by seeking out inform
 
 # What we found:
 
-- 21 (10%) authorities are not offering specific vouchers or cash to families with children for food over the Christmas period. However, nine of those authorities are offering one-off winter support payments specifically targeting families with children. Two authorities, Derbyshire and Calderdale, are offering a voucher scheme that will run from January, rather than the Christmas break. 
+- 21 (10%) authorities were not offering specific vouchers or cash to families with children for food over the Christmas period. However, nine of those authorities were offering one-off winter support payments specifically targeting families with children. Two authorities, Derbyshire and Calderdale, offered a voucher scheme that would run from January, rather than the Christmas break. 
 
-- 94 councils are offering additional vouchers to support families with food over the Christmas holidays. 
+- 94 councils offered supermarket vouchers to support families with food over the Christmas holidays. 
 
-- 10 councils are offering additional cash payments - rather than vouchers - to support families over the Christmas holidays.
+- 10 councils offered cash payments - rather than vouchers - to support families over the Christmas holidays.
 
 # Get the data
 
-We provided partners with this spreadsheet showing how the provision compared at  - have a look at this spreadsheet: https://docs.google.com/spreadsheets/d/1F6sj1PYk2kuzf0bv_80khsLTPfcdfIZ-MXvPOxHz28M/edit?usp=sharing
+We provided partners with this spreadsheet showing how the provision compared at local authority level: https://docs.google.com/spreadsheets/d/1F6sj1PYk2kuzf0bv_80khsLTPfcdfIZ-MXvPOxHz28M/edit?usp=sharing
 
 There are five tabs on the spreadsheet: 
 A mastersheet showing all the councils in our study
